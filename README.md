@@ -17,7 +17,7 @@ Easily integrate [GraphQL Playground](https://github.com/prismagraphql/graphql-p
 
 ## Installation
 
-    composer require mll-lab/laravel-graphql-playground
+    composer require aarab/laravel-graphql-playground
 
 If you are using Lumen, register the service provider in `bootstrap/app.php`
 
